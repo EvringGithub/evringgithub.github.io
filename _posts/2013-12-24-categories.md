@@ -2,9 +2,7 @@
 title: Alexandre's Home
 date: 2016-12-23 21:44:09
 categories:
-- Alex
-- And
-- Re
+- Alexandre
 ---
 
 Hi,Welecome to Alexandre's Home .
